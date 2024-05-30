@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王延锋
+title: 王延峰
 
 # Name pronunciation (optional)
 name_pronunciation: Yanfeng Wang
