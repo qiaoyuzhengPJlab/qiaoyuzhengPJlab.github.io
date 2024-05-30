@@ -6,8 +6,8 @@ title: 王延锋
 name_pronunciation: Yanfeng Wang
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yanfeng
+last_name: Wang
 
 # Status emoji
 status:
@@ -49,10 +49,10 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-# education:
-#   - Master 
-#   - Computational Linguistics
-#   - Information Retrieval
+intrests:
+  - Master 
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
