@@ -49,8 +49,8 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
+education:
+  - Master 
   - Computational Linguistics
   - Information Retrieval
 
