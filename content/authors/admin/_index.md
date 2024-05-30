@@ -49,7 +49,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-intrest:
+interest:
   - Master 
   - Computational Linguistics
   - Information Retrieval
