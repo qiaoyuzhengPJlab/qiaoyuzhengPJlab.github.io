@@ -103,6 +103,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2010
+    date_end: ''
     # date_end: 2020-12-31
     # summary: |
     #   Responsibilities include:
@@ -114,24 +115,25 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2015
-
+    date_end: ''
     - position: 副主任
     company_name: 上海交通大学未来媒体网络协同创新中心
     company_url: ''
     company_logo: ''
     date_start: 2015
-
+    date_end: ''
     - position: 院长
     company_name: 上海交通大学苏州人工智能研究院
     company_url: ''
     company_logo: ''
     date_start: 2017
-
+    date_end: ''
     - position: 副院长
     company_name: 上海交通大学人工智能研究院
     company_url: ''
     company_logo: ''
     date_start: 2018
+    date_end: ''
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
