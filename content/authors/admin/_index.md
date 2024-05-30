@@ -183,7 +183,7 @@ work:
 awards:
   - title: 上海市科技进步一等奖（No.01）
     # url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2019-xx-xx'
+    date: '2019-01-01'
     awarder: -
     # icon: coursera
     # summary: |
