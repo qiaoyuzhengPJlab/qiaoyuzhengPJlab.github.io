@@ -25,7 +25,9 @@ role: Professor
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Shanghai Jiao Tong University
-          Cooperative Medianet Innovation Center (CMIC)
+    
+  
+  - name: Cooperative Medianet Innovation Center (CMIC)
     url: https://cmic.sjtu.edu.cn/CN/Default.aspx
 
 # Social network links
