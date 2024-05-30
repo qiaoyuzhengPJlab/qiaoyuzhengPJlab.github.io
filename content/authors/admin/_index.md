@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 王延峰
+title: Yanfeng Wang
 
 # Name pronunciation (optional)
-name_pronunciation: Yanfeng Wang
+name_pronunciation: 王延锋
 
 # Full name (for SEO)
 first_name: Yanfeng
