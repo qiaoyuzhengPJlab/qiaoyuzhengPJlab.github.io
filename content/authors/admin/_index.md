@@ -49,10 +49,10 @@ profiles:
   # - icon: academicons/orcid
   #   url: https://orcid.org/
 
-education:
-  - Master 
-  - Computational Linguistics
-  - Information Retrieval
+# education:
+#   - Master 
+#   - Computational Linguistics
+#   - Information Retrieval
 
 education:
   - area: PhD Artificial Intelligence
