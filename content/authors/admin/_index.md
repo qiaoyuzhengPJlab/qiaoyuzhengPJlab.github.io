@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 吳健雄
+title: 王延锋
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yanfeng Wang
 
 # Full name (for SEO)
 first_name: Shiung Wu
@@ -20,12 +20,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Professor
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Shanghai Jiao Tong University
+          Cooperative Medianet Innovation Center (CMIC)
+    url: https://cmic.sjtu.edu.cn/CN/Default.aspx
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
