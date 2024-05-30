@@ -86,54 +86,54 @@ education:
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
   #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: 营销总监
-#     company_name: 上海高清数字科技产业有限公司
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2009
-#     date_end: ''
-#     # summary: |2-
-#     #   Responsibilities include:
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: 副总裁
-#     company_name: 数字电视国家工程研究中心
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2010
-#     date_end: ''
-#     # date_end: 2020-12-31
-#     # summary: |
-#     #   Responsibilities include:
-#     #   - Migrated infrastructure to a new data center
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#     - position: 副院长
-#     company_name: 上海交通大学电子信息与电气工程学院
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2015
-#     date_end: ''
-#     - position: 副主任
-#     company_name: 上海交通大学未来媒体网络协同创新中心
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2015
-#     date_end: ''
-#     - position: 院长
-#     company_name: 上海交通大学苏州人工智能研究院
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2017
-#     date_end: ''
-#     - position: 副院长
-#     company_name: 上海交通大学人工智能研究院
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2018
-#     date_end: ''
+work:
+  - position: 营销总监
+    company_name: 上海高清数字科技产业有限公司
+    company_url: ''
+    company_logo: ''
+    date_start: 2009
+    date_end: ''
+    # summary: |2-
+    #   Responsibilities include:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: 副总裁
+    company_name: 数字电视国家工程研究中心
+    company_url: ''
+    company_logo: ''
+    date_start: 2010
+    date_end: ''
+    # date_end: 2020-12-31
+    # summary: |
+    #   Responsibilities include:
+    #   - Migrated infrastructure to a new data center
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: 副院长
+    company_name: 上海交通大学电子信息与电气工程学院
+    company_url: ''
+    company_logo: ''
+    date_start: 2015
+    date_end: ''
+  - position: 副主任
+    company_name: 上海交通大学未来媒体网络协同创新中心
+    company_url: ''
+    company_logo: ''
+    date_start: 2015
+    date_end: ''
+  - position: 院长
+    company_name: 上海交通大学苏州人工智能研究院
+    company_url: ''
+    company_logo: ''
+    date_start: 2017
+    date_end: ''
+  - position: 副院长
+    company_name: 上海交通大学人工智能研究院
+    company_url: ''
+    company_logo: ''
+    date_start: 2018
+    date_end: ''
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
