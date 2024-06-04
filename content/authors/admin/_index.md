@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Yanfeng Wang
+title: 王延峰
 
 # Name pronunciation (optional)
-name_pronunciation: 王延峰
+name_pronunciation: Yanfeng Wang
 
 # Full name (for SEO)
 first_name: Yanfeng
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Professor
+role: Professor 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
