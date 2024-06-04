@@ -58,8 +58,8 @@ education:
   - area: PhD 
     institution: Shanghai Jiao Tong University
     year: 2005 - 2009
-    # date_start: 2005-09-01
-    # date_end: 2009-06-06
+    date_start: 2005-09-01
+    date_end: 2009-06-06
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     # button:
@@ -68,8 +68,8 @@ education:
   - area: Master
     institution: Shanghai Jiao Tong University 
     year: 2002 - 2005
-    # date_start: 2002-09-01
-    # date_end: 2005-06-01
+    date_start: 2002-09-01
+    date_end: 2005-06-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -93,8 +93,9 @@ work:
     company_name: 上海高清数字科技产业有限公司
     company_url: ''
     company_logo: ''
-    date_start: 2009-01-01
-    date_end: ''
+    year: 2009 -
+    # date_start: 2009-01-01
+    # date_end: ''
     # summary: |2-
     #   Responsibilities include:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
