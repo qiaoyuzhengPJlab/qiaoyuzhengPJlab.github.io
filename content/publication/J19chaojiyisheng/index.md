@@ -23,8 +23,8 @@ abstract: 人工智能赋能医疗行业,已经成为当前产业界和学术界
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-# tags:
-# - 入选国家新闻出版局“月度好书”榜
+tags:
+- no
 
 featured: false
 
