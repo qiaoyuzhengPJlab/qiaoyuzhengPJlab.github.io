@@ -1,5 +1,5 @@
 ---
-title: "超级医生助手：让人工智能技术成为医疗服务突破口"
+title: "超级医生助手：让人工智能技术成为医疗服务突破口" 
 authors:
 - 王延峰
 - 卢策吾
@@ -16,7 +16,7 @@ publishDate: "2019-07-26T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "前沿科学"
 publication_short: ""
 
 abstract: 人工智能赋能医疗行业,已经成为当前产业界和学术界研究发展的一大热点.各国的顶尖医院与医学院等都开始与人工智能实验室或公司进行合作,尽早涉足人工智能医疗领域,推进探测、诊断、治疗和管理等方面的应用.由于医疗产业涉及面广、专业及专业亚学科多、流程复杂程度高,人工智能可以应用于多个环节,如医学影像分析、辅助诊断决策、生物技术、就医流程、药物研发、医疗智能语音、机器人护理等领域.
@@ -24,7 +24,7 @@ abstract: 人工智能赋能医疗行业,已经成为当前产业界和学术界
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- no
+- Source Themes
 
 featured: false
 

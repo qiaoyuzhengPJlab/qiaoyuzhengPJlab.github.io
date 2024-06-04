@@ -17,7 +17,7 @@ publishDate: "2017-05-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "IEEE Communications Letters"
 publication_short: ""
 
 abstract: Catching popular contents at user devices and sharing the cached content among users is one promising solution to alleviate the heavy base station burden in mobile social networks. In this letter, we investigate social relationships and physical coupling among users, and, then, choose one important user (IU) as a helper to cache target contents and other users can get contents from IUs devices.
