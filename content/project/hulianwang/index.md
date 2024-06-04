@@ -1,5 +1,5 @@
 ---
-title: 4K超高清媒体的制作与分发关键技术研究
+title: 大数据分析与智能媒体传输系统
 date: 2020-01-01
 # external_link: https://github.com/pandas-dev/pandas
 # tags:
@@ -9,5 +9,5 @@ date: 2020-01-01
 ---
 
 <!-- Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures. -->
-科技部国家重点研发计划
+国家发改委互联网+重大专项
 <!--more-->
