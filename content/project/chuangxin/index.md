@@ -1,6 +1,6 @@
 ---
-title: 大数据分析与智能媒体传输系统
-date: 2019-01-01
+title: 面向智慧医院的行为多维度感知系统的建设
+date: 2018-01-01
 # external_link: https://github.com/pandas-dev/pandas
 # tags:
 #   - Hugo
@@ -9,5 +9,5 @@ date: 2019-01-01
 ---
 
 <!-- Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures. -->
-国家发改委互联网+重大专项
+上海市人工智能创新发展专项项目
 <!--more-->
