@@ -62,10 +62,4 @@ projects:
 slides: example
 ---
 
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+《无界：智能革命与业态创新》主要讨论了从第一次工业革命以来世界和中国经济发展中技术创新与产业发展的互动关系与变革历程。全书分为管理探究和案例剖析两部分，在前半部分希望通过梳理国内外产业与技术演进的脉络，向读者呈现一种发展逻辑，逐步展开数字经济时代新业态的讨论，同时分析发展规律变化、行业背景变化带来的管理实践变化。为了更加生动地阐述这些变革，在本书的第二部分，引入了来自媒体、金融、汽车行业的案例，从技术和业态交互的角度更加生动地展示在这些行业中发生的新变化和趋势。
