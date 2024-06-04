@@ -1,15 +1,19 @@
 ---
-title: "Caching Placement with Recommendation Systems for Cache-Enabled Mobile Social Networks"
+title: "Media Transmission by Cooperation of Cellular Network and Broadcasting Network"
 authors:
 - Y Wang*
-- M Ding
-- Z Chen
-- L Luo
-date: "2017-05-18T00:00:00Z"
+- D He
+- L Ding
+- W Zhang
+- W Li
+- Y Wu
+- N Liu
+- Y Wang
+date: "2017-07-27T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-05-18T00:00:00Z"
+publishDate: "2017-07-27T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,11 +21,10 @@ publishDate: "2017-05-18T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE Communications Letters"
+publication: "IEEE Transactions on Broadcasting"
 publication_short: ""
 
-abstract: Catching popular contents at user devices and sharing the cached content among users is one promising solution to alleviate the heavy base station burden in mobile social networks. In this letter, we investigate social relationships and physical coupling among users, and, then, choose one important user (IU) as a helper to cache target contents and other users can get contents from IUs devices...
-
+abstract: Future media transmission as a consistent target is pursued by both next mobile communication system (5G) and advanced digital terrestrial television system. High data rate and flexibility are major considerations for future media transmission. Broadcasting network facilitates high-efficiency transmission of popular or live video in large area, and while, cellular network tends to provide personalized and localized services with a unicast/multicast model...
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
@@ -31,8 +34,8 @@ featured: false
 
 links:
 - name: Custom Link
-  url: https://ieeexplore.ieee.org/abstract/document/7931552
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7931552
+  url: https://ieeexplore.ieee.org/document/7994659
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7994659
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
