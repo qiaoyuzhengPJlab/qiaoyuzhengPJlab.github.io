@@ -67,8 +67,9 @@ education:
     #   url: 'https://example.com'
   - area: Master
     institution: Shanghai Jiao Tong University 
-    date_start: 2002-09-01
-    date_end: 2005-06-01
+    year: 2002 - 2005
+    # date_start: 2002-09-01
+    # date_end: 2005-06-01
     # summary: |
     #   GPA: 3.8/4.0
 
@@ -135,6 +136,10 @@ work:
     company_logo: ''
     date_start: 2018-01-01
     date_end: ''
+
+experiences:
+  - 2019 - 2020, Senior Research Associate, Machine Intelligence Laboratory, University of Cambridge 
+  - 2015 - 2019, Research Associate, Machine Intelligence Laboratory, University of Cambridge
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 # skills:
