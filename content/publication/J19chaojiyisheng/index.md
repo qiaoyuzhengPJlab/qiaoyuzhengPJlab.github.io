@@ -1,7 +1,7 @@
 ---
 title: "超级医生助手：让人工智能技术成为医疗服务突破口"
 authors:
-- 王延峰
+- **王延峰**
 - 卢策吾
 - 张娅等
 date: "2019-07-26T00:00:00Z"
@@ -23,8 +23,8 @@ abstract: 人工智能赋能医疗行业,已经成为当前产业界和学术界
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- 入选国家新闻出版局“月度好书”榜
+# tags:
+# - 入选国家新闻出版局“月度好书”榜
 
 featured: false
 
