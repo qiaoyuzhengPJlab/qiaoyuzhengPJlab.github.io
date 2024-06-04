@@ -20,7 +20,7 @@ publication_types: ["article-journal"]
 publication: ""
 publication_short: ""
 
-abstract: Caching popular contents at user devices and sharing the cached content among users is one promising solution to alleviate the heavy base station burden in mobile social networks. In this letter, we investigate social relationships and physical coupling among users, and, then, choose one important user (IU) as a helper to cache target contents and other users can get contents from IUs devices. In particular, because users tend to pay more attention to contents they interested in, a recommendation system with caching placement is proposed to maximize the offloading probability for mobile social networks. We then improve the system to combine three operations: pre-filtering, collaborative filtering algorithm, and latent factor algorithm. Finally, simulation results show the proposed recommendation system-based caching placement scheme achieves a great performance gain over existing approaches, and indicate that important user devices should cache files that recommended most to users.
+abstract: Catching popular contents at user devices and sharing the cached content among users is one promising solution to alleviate the heavy base station burden in mobile social networks. In this letter, we investigate social relationships and physical coupling among users, and, then, choose one important user (IU) as a helper to cache target contents and other users can get contents from IUs devices.
 
 # # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
