@@ -1,11 +1,11 @@
 ---
 title: 'Patents'
 # date: 2024-05-19
-# type: landing
+type: landing
 
-# design:
-#   # Section spacing
-#   spacing: '5rem'
+design:
+  # Section spacing
+  spacing: '5rem'
 
 # Page sections
 sections:
